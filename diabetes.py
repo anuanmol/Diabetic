@@ -43,8 +43,8 @@ st.markdown('''<h1><center>Diabetic ? </center></h1>''', unsafe_allow_html= True
 
 st.write("---")
 # https://cdn.vertex42.com/ExcelTemplates/Images/blood-sugar-chart-for-diabetes.png
-st.markdown("""<h4 style="font-family: Arial, Helvetica, sans-serif;"><center>Use that > arrow on top left corner for all options</center></h4>""", unsafe_allow_html= True)
-st.write("---")
+# st.markdown("""<h4 style="font-family: Arial, Helvetica, sans-serif;"><center>Use that > arrow on top left corner for all options</center></h4>""", unsafe_allow_html= True)
+# st.write("---")
 
 st.markdown('''<center><h2>Select</h2>  </center>''', unsafe_allow_html=True)
 choice = st.selectbox(" ", ["-----Choose-----","Facts about Diabetes", "Check it !"])
