@@ -24,3 +24,5 @@ Since there were only two classes for the output : **Diabetic** or  **non-diabet
 ### Deployment
 
 Model is deployed using Streamlit framework which also adds simple and clear frontend to the web app.
+
+Check it live: https://share.streamlit.io/aspvtltd/diabefy/main/diabetes.py
